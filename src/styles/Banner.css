@@ -1,0 +1,10 @@
+.MyBanner {
+    color: white;
+    text-align: right;
+    padding: 10px;
+    border-bottom: solid 3px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+}
