@@ -1,17 +1,13 @@
-import logo from '../logo.svg';
 import '../styles/App.css';
-import './Banner'
 import Banner from './Banner';
+import Main from './Main';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <Banner />
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Aplication météo
-        </p>
+        <Main />
 
       </header>
     </div>
