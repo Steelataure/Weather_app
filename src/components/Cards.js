@@ -1,4 +1,4 @@
-/*
+
 const list_cards = [
     'France',
     'Espagne',
@@ -16,4 +16,3 @@ function Cards() {
 }
 
 export default Cards
-*/
