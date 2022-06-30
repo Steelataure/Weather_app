@@ -1,4 +1,4 @@
-import '../styles/Banner.css'
+import '../styles/Header.css'
 import React, { Component } from 'react'
 
 function Banner(){
