@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-import '../styles/Main.css'
->>>>>>> main
 import backgroundVideo from "../assets/Mountain_cuted.mp4"
 import '../styles/Background_video.css'
 
